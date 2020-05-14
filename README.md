@@ -6,4 +6,6 @@ Libraries Used: numpy for Math related Operations (very less used) pandas for Da
 
 DataSet Columns: Country_Code : This column includes the Country Codes of the Countries around the World. (Less Important) Latitude : Latitude of each country. (Most Important)*** Longitude : Longitude of each country of the world. (Most Important)*** Country_Name : This column includes the Country Names of the Countries around the World. (Most Important)
 
-*** From the dataset I have used only 3 columns namely, 'Country_Name', 'Latitude', 'Longitude'. For number of cases I have used the Google News statistics with source being Wikipedia. Link of Source: https://news.google.com/covid19/map?hl=en-IN&gl=IN&ceid=IN%3Aen&mid=%2Fm%2F03rk0
+*** From the dataset I have used only 3 columns namely, 'Country_Name', 'Latitude', 'Longitude'. 
+
+For number of cases I have used the Google News statistics with source being Wikipedia. Link of Source: https://en.wikipedia.org/wiki/Template:COVID-19_pandemic_data'
